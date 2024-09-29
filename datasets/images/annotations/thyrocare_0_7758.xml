@@ -1,0 +1,62 @@
+<annotation>
+	<folder>images</folder>
+	<filename>thyrocare_0_7758.jpg</filename>
+	<path>D:\Visual Studio\NextHike Project 10\datasets\images\thyrocare_0_7758.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>939</width>
+		<height>631</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Test Name</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>89</xmin>
+			<ymin>402</ymin>
+			<xmax>360</xmax>
+			<ymax>472</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Value</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>495</xmin>
+			<ymin>395</ymin>
+			<xmax>540</xmax>
+			<ymax>461</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Units</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>579</xmin>
+			<ymin>393</ymin>
+			<xmax>633</xmax>
+			<ymax>460</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Reference Range</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>631</xmin>
+			<ymin>392</ymin>
+			<xmax>690</xmax>
+			<ymax>459</ymax>
+		</bndbox>
+	</object>
+</annotation>
