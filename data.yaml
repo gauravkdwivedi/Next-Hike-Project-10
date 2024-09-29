@@ -1,0 +1,4 @@
+train: datasets/images/train
+val: datasets/images/test
+nc: 4
+names: ['Test Name', 'Value', 'Units', 'Reference Range']
