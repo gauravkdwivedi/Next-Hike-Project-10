@@ -15,6 +15,6 @@ This project combines YOLOv5 and Tesseract to read specific contents from lab re
 ## Prerequisites
 
 - Python 3.7 or higher
-- Libraries: OpenCV, Pandas, NumPy, Streamlit, Tesseract, YOLO Object Detection
+- Libraries: numpy, pandas, matplotlib, opencv-python, labelImg, setuptools, PyYAML, pytesseract, streamlit
 - Tesseract OCR installed on your system
-- A trained YOLO model in ONNX format
+- Google Colab to train YOLO model and export it in ONNX format
