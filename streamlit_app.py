@@ -1,11 +1,10 @@
-import streamlit as st
-import cv2
-import numpy as np
-from PIL import Image
-import pytesseract
-from YOLO_Object_Detection import YOLO_Pred
-import pandas as pd
 import re
+import pytesseract
+import numpy as np
+import pandas as pd
+import streamlit as st
+from PIL import Image
+from YOLO_Object_Detection import YOLO_Pred
 
 # Configuration for Tesseract
 myconfig = r'--psm 6 --oem 3'
