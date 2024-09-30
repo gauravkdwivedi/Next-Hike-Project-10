@@ -6,3 +6,4 @@ labelImg
 setuptools
 PyYAML
 pytesseract
+streamlit
