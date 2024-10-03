@@ -1,4 +1,4 @@
-# Custom Object Character Recognition (OCR) on AWS
+# Custom Object Character Recognition (OCR)
 
 ## Overview
 
